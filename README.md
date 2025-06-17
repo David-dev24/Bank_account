@@ -18,8 +18,8 @@ This is a simple interactive banking application built with Streamlit and Object
 | -------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
 | [Ife](https://github.com/EF-Code)     | Created the parent class, and created the savings account sub class       |
 | [Chisom](https://github.com/gidadojnr)     | Added deposit/withdraw functions,created README file|
-| [Suleiman](https://github.com/suleiman108) | Create deposit/withdraw and view balance menus in Streamlit and revamped them later on                       |
-| [Apochi](https://github.com/emm847)        | Created the current account subclass, added new dashboard menu to UI                                |
+| [Haruna](https://github.com/suleiman108) | Create deposit/withdraw and view balance menus in Streamlit and revamped them later on                       |
+| [Hauwa](https://github.com/emm847)        | Created the current account subclass, added new dashboard menu to UI                                |
 | [David](https://github.com/kingdavida001)  | Created the base ui in Streamlit with menu along with banking logic  Created and customized the styling with coloured buttons and a themed UI using HTML and CSS                             |
 
 ## 🧾 Usage:
