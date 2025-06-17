@@ -1,25 +1,26 @@
 # 💰 Python Banking Application
 
-This project is a simple Python banking application built using Object-Oriented Programming (OOP) principles with Streamlit for the web user interface. This app simulates simple banking operations like account creation, deposits, withdrawals, and balance checking.
+This is a simple interactive banking application built with Streamlit and Object-Oriented Programming (OOP) principles. It supports basic banking operations like creating accounts, depositing, and withdrawing funds for both Savings and Current accounts.
 
 ## 🚀 Features
 
 - Create a bank account
-- Dashboard
+- Provides a form containing your name and account balance 
+- A basic Dashboard 
 - Deposit and withdraw money
-- Check transaction history
-- Logout
+- Check Balance
+- options for current or savings account 
 
 ## 👥 Contributors
 
 
 | Name                                       | Contributions                                                                                                |
 | -------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| [Emmanuel](https://github.com/EF-Code)     | Created the parent class, implemented add_transaction function in Streamlit and redesigned the base UI       |
-| [Gidado](https://github.com/gidadojnr)     | Added deposit/withdraw functions,created README and requirements.txt and added export history to csv feature |
+| [Ife](https://github.com/EF-Code)     | Created the parent class, and created the savings account sub class       |
+| [Chisom](https://github.com/gidadojnr)     | Added deposit/withdraw functions,created README file|
 | [Suleiman](https://github.com/suleiman108) | Create deposit/withdraw and view balance menus in Streamlit and revamped them later on                       |
-| [Apochi](https://github.com/emm847)        | Create current and savings account subclasses, added new dashboard menu to UI                                |
-| [Henry](https://github.com/kingdavida001)  | Created the base ui in Streamlit with menu along with banking logic                                          |
+| [Apochi](https://github.com/emm847)        | Created the current account subclass, added new dashboard menu to UI                                |
+| [David](https://github.com/kingdavida001)  | Created the base ui in Streamlit with menu along with banking logic  Created and customized the styling with coloured buttons and a themed UI using HTML and CSS                             |
 
 ## 🧾 Usage:
 
@@ -37,8 +38,3 @@ pip install -r requirements.txt
 streamlit run bank_streamlit.py
 ```
 
-
-## 🚀️ Live Demo
-
-
-A live version of the application can be found [here](https://bankapplication-kwefr2zmpp3sv2bbvkirxn.streamlit.app/).
