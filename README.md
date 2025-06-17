@@ -1,8 +1,8 @@
-# 💰 Python Banking Application
+# Python Banking Application
 
 This is a simple interactive banking application built with Streamlit and Object-Oriented Programming (OOP) principles. It supports basic banking operations like creating accounts, depositing, and withdrawing funds for both Savings and Current accounts.
 
-## 🚀 Features
+## Features
 
 - Create a bank account
 - Provides a form containing your name and account balance 
@@ -16,7 +16,7 @@ This is a simple interactive banking application built with Streamlit and Object
 
 | Name                                       | Contributions                                                                                                |
 | -------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| [Ife]()     | Created the parent class, and created the savings account sub class       |
+| [Ife](https://github.com/olaife230)     | Created the parent class, and created the savings account sub class       |
 | [Chisom]()     | Added deposit/withdraw functions,created README file|
 | [Haruna]() | Create deposit/withdraw and view balance menus in Streamlit                     |
 | [Hauwa]()        | Created the current account subclass, added new dashboard menu to UI                                |
