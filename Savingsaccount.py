@@ -1,8 +1,10 @@
+# Savingsaccount.py
+
 class SavingsAccount:
     def __init__(self, name, balance=0.0):
         self.name = name
         self.balance = balance
-        self.withdrawal_limit = 5000  # Maximum allowed per withdrawal
+        self.withdrawal_limit = 5000
 
     def deposit(self, amount):
         if amount > 0:
