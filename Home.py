@@ -1,5 +1,6 @@
 import streamlit as st
-from accounts import SavingsAccount, CurrentAccount
+from Savingsaccount import SavingsAccount
+from Currentaccount import CurrentAccount 
 
 st.set_page_config(page_title="Bank Account App", page_icon="🏦", layout="centered")
 st.markdown(
